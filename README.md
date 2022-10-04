@@ -1,4 +1,4 @@
-### Linked List
+# Linked List
 
 This is the Linked List factory function that comes with a few functions solution to a project from The Odin Project.
 
